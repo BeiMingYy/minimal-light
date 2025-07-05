@@ -4,20 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I received my B.E. degree from Northeastern University, Shenyang, China, in 2020, and received my M.E. degree in 2023. I am currently working towards the Ph.D. degree in the College of Intelligence and Computing, Tianjin University, Tianjin, China. My supervisors are Prof. Pengfei Zhu (朱鹏飞) and Prof. Bing Cao (曹兵) in Tianjin University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Multi-Modal Learning** 
+- **Natural Language Processing:**  News
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[July. 2025]** Coming soon.
+- 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
