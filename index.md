@@ -9,10 +9,11 @@ I received my B.E. degree from Northeastern University, Shenyang, China, in 2020
 ## Research Interests
 
 - **Multi-Modal Learning** 
-- **Natural Language Processing:**  News
-
+- **Natural Language Processing:**
+  
+## News
 - **[July. 2025]** Coming soon.
-- 
+
 {% include_relative _includes/publications.md %}
 
 
